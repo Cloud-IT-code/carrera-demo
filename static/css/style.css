@@ -1,0 +1,3288 @@
+body {
+    margin-left: 0;
+}
+
+body {
+    margin-bottom: 0;
+}
+
+[class~=container] {
+    margin-left: auto;
+}
+
+[class~=container] {
+    margin-bottom: auto;
+}
+
+[class~=container] {
+    margin-right: auto;
+}
+
+body {
+    margin-right: 0;
+}
+
+body {
+    margin-top: 0;
+}
+
+body {
+    padding-left: 0;
+}
+
+[class~=container] {
+    margin-top: auto;
+}
+
+body {
+    padding-bottom: 0;
+}
+
+body {
+    padding-right: 0;
+}
+
+[class~=carrera] [class~=container] {
+    padding-bottom: 0;
+}
+
+body {
+    padding-top: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+body {
+    background: #118eea;
+}
+
+a {
+    text-decoration: none;
+}
+
+hr {
+    width: 90%;
+}
+
+[class~=carrera] [class~=container] {
+    min-height: 0;
+}
+
+hr {
+    color: #bbb;
+}
+
+button {
+    outline: none;
+}
+
+[class~=container] {
+    min-height: 100vh;
+}
+
+[class~=container] {
+    padding-bottom: .25pc;
+}
+
+[class~=container] {
+    background: #fff;
+}
+
+@media only screen and (max-width: 600px) {
+
+    [class~=info-pesanan],
+    [class~=info-top],
+    [class~=container] {
+        width: 100%;
+    }
+
+    [class~=carrera] [class~=row] {
+        width: 80%;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+
+    [class~=container],
+    [class~=info-top],
+    [class~=info-pesanan] {
+        width: 270pt;
+    }
+
+    [class~=carrera] [class~=row] {
+        width: 18.75pc;
+    }
+}
+
+[class~=top-menu] [class~=box],
+[class~=promo] [class~=item] a:hover img {
+    width: 90%;
+}
+
+[class~=top-menu],
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek] {
+    width: 100%;
+}
+
+[class~=top-menu] {
+    height: .625in;
+}
+
+[class~=top-menu] [class~=box] [class~=title],
+[class~=top-menu] [class~=box] [class~=back] button,
+[class~=form-pesanan] [class~=form] [class~=rw] [class~=kuan]:hover:last-child,
+[class~=top-menu] [class~=box] [class~=back] a {
+    color: #fff;
+}
+
+[class~=top-menu] [class~=top-btn]:focus {
+    outline: none;
+}
+
+[class~=top-menu] [class~=box],
+[class~=promo] [class~=item] a:hover img,
+[class~=top-menu] [class~=top-btn] {
+    margin-left: auto;
+}
+
+.coninf {
+    margin-top: 0 !important;
+    padding-top: 80px;
+}
+
+[class~=top-btn] svg,
+[class~=top-menu] [class~=top-btn],
+[class~=top-menu] [class~=box],
+[class~=top-menu] [class~=box] [class~=back],
+[class~=top-menu] [class~=box] [class~=title],
+[class~=promo] [class~=item] a:hover img {
+    margin-bottom: auto;
+}
+
+[class~=top-menu] [class~=box],
+[class~=top-menu] [class~=top-btn] {
+    margin-right: auto;
+}
+
+[class~=top-menu] [class~=top-btn]:hover {
+    background-color: rgba(0, 0, 0, .294);
+}
+
+[class~=top-menu] [class~=box] [class~=back] {
+    width: 20px;
+}
+
+[class~=title-form] [class~=title] svg {
+    color: #118eea;
+}
+
+[class~=top-hr],
+[class~=top-menu] {
+    background-color: #118eea;
+}
+
+[class~=top-menu] [class~=box] [class~=back],
+[class~=top-menu] [class~=box] [class~=back] button {
+    margin-left: 0;
+}
+
+[class~=top-menu] [class~=box],
+[class~=top-menu] [class~=top-btn],
+[class~=top-menu] [class~=box] [class~=back],
+[class~=top-menu] [class~=box] [class~=title] {
+    margin-top: auto;
+}
+
+[class~=top-menu] [class~=box],
+[class~=top-menu] {
+    display: flex;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    width: 100px;
+}
+
+[class~=top-menu] [class~=box] [class~=back] {
+    margin-right: 0;
+}
+
+[class~=login-form],
+[class~=top-menu] [class~=box] [class~=title],
+[class~=promo],
+[class~=top-hr] {
+    width: 100%;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    height: .354166667in;
+}
+
+[class~=form] [class~=login-input] svg {
+    margin-left: .145833333in;
+}
+
+[class~=top-menu] [class~=top-btn],
+[class~=top-menu] [class~=box] [class~=title] {
+    font-family: sans-serif;
+}
+
+[class~=top-menu] [class~=box] [class~=title],
+[class~=top-menu] [class~=top-btn] {
+    font-weight: bold;
+}
+
+[class~=form] [class~=login-input] input,
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek] {
+    height: 40px;
+}
+
+[class~=top-menu] [class~=box] [class~=title],
+[class~=top-btn] svg {
+    margin-left: auto;
+}
+
+[class~=promo] [class~=item] a:hover img {
+    height: 90%;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-radius: 15pt;
+}
+
+[class~=top-menu] [class~=box] [class~=title],
+[class~=promo] [class~=item] a:hover img {
+    margin-right: auto;
+}
+
+[class~=none] {
+    display: none !important;
+}
+
+[class~=form] [class~=login-input] svg {
+    margin-bottom: .145833333in;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-left-width: medium;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    margin-bottom: 0;
+}
+
+[class~=form] [class~=login-input] svg {
+    margin-right: .145833333in;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-bottom-width: medium;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-right-width: medium;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-top-width: medium;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-left-style: none;
+}
+
+[class~=form] [class~=login-input] svg {
+    margin-top: .145833333in;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-bottom-style: none;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-right-style: none;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-top-style: none;
+}
+
+[class~=form] [class~=login-input] svg {
+    color: #757575;
+}
+
+[class~=form] [class~=login-input] svg {
+    position: absolute;
+}
+
+[class~=form] [class~=login-input] input {
+    width: 80%;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-left-color: currentColor;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-bottom-color: currentColor;
+}
+
+[class~=top-menu] [class~=box] [class~=title] {
+    font-size: 1.25pc;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-right-color: currentColor;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-top-color: currentColor;
+}
+
+[class~=form] [class~=login-input] input,
+[class~=top-menu] [class~=box] [class~=back] button {
+    margin-right: 0;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    border-image: none;
+}
+
+[class~=promo] {
+    margin-top: 20px;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    background: none;
+}
+
+[class~=top-menu] [class~=box] [class~=title] {
+    text-align: center;
+}
+
+[class~=top-menu] [class~=top-btn],
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek]:hover {
+    color: #fff;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    margin-top: 0;
+}
+
+[class~=form] [class~=login-input] input {
+    margin-left: 0;
+}
+
+.top-hr .hr .lr {
+    width: 2.5pc;
+}
+
+[class~=promo],
+[class~=top-menu] [class~=top-btn],
+[class~=speed],
+[class~=top-hr] [class~=hr] {
+    display: flex;
+}
+
+[class~=top-menu] [class~=top-btn] {
+    justify-content: center;
+}
+
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek] {
+    color: #118eea;
+}
+
+[class~=form] [class~=login-input] input {
+    margin-bottom: 3.75pt;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    padding-left: 0;
+}
+
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek] {
+    font-weight: bold;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    padding-bottom: 0;
+}
+
+[class~=top-menu] [class~=active] {
+    background-color: rgba(0, 0, 0, .294);
+}
+
+.form .btn-login:hover,
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek],
+[class~=form] [class~=login-input] input {
+    border-left-width: 1px;
+}
+
+[class~=promo] {
+    flex-direction: row;
+}
+
+.top-hr .hr .lr {
+    height: 4px;
+}
+
+.top-hr .hr .lr {
+    background-color: #bbb;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] [class~=kuan]:hover:last-child {
+    background: #11ea97;
+}
+
+[class~=form] [class~=login-input] input {
+    margin-top: 3.75pt;
+}
+
+.top-hr .hr .lr {
+    border-radius: .020833333in;
+}
+
+.top-btn .span {
+    margin-left: 0;
+}
+
+[class~=speed],
+[class~=menu-form] [class~=title-form],
+.top-hr .hr .lr,
+[class~=login-form] [class~=menu-form] {
+    margin-left: auto;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    padding-right: 0;
+}
+
+.top-btn .span,
+[class~=speed],
+.top-hr .hr .lr {
+    margin-bottom: auto;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    padding-top: 0;
+}
+
+[class~=promo] {
+    overflow: auto;
+}
+
+.form .btn-login:hover,
+[class~=form] [class~=login-input] input,
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek] {
+    border-bottom-width: 1px;
+}
+
+[class~=form] [class~=login-input] input {
+    padding-left: 3.75pc;
+}
+
+[class~=login-form] [class~=menu-form],
+[class~=speed],
+.top-hr .hr .lr,
+.top-btn .span {
+    margin-right: auto;
+}
+
+.top-btn .span,
+.top-hr .hr .lr {
+    margin-top: auto;
+}
+
+.promo .item a img,
+[class~=info-pesanan] [class~=box] [class~=row] [class~=descrip] [class~=row] [class~=title],
+[class~=top-hr] [class~=hr],
+[class~=info-pesanan] [class~=box] [class~=row] [class~=descrip] [class~=row] p {
+    width: 100%;
+}
+
+[class~=promo] {
+    scroll-behavior: smooth;
+}
+
+[class~=form] [class~=login-input] input,
+.form .btn-login:hover,
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek] {
+    border-right-width: .0625pc;
+}
+
+[class~=login-form] [class~=menu-form],
+[class~=speed] {
+    width: 90%;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    border-left-width: medium;
+}
+
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek],
+[class~=form] [class~=login-input] input,
+.form .btn-login:hover {
+    border-top-width: .0625pc;
+}
+
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek],
+[class~=form] [class~=login-input] input,
+.form .btn-login:hover {
+    border-left-style: solid;
+}
+
+.form .btn-login:hover,
+[class~=form] [class~=login-input] input,
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek] {
+    border-bottom-style: solid;
+}
+
+[class~=top-hr] [class~=hr] {
+    height: 30pt;
+}
+
+.form .btn-login:hover,
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek],
+[class~=form] [class~=login-input] input {
+    border-right-style: solid;
+}
+
+[class~=top-hr] [class~=hr] {
+    background: #fff;
+}
+
+[class~=top-hr] [class~=hr] {
+    border-radius: .208333333in 15pt 0 0;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    border-bottom-width: medium;
+}
+
+[class~=login-form] [class~=menu-form] {
+    height: 80px;
+}
+
+.form .btn-login:hover {
+    color: #118eea;
+}
+
+[class~=login-form] [class~=menu-form] {
+    margin-bottom: 0;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    border-right-width: medium;
+}
+
+[class~=login-form] [class~=menu-form] {
+    margin-top: 0;
+}
+
+[class~=login-form] [class~=menu-form] {
+    padding-right: 10px;
+}
+
+[class~=login-form] [class~=menu-form] {
+    border-radius: .9375pc;
+}
+
+[class~=menu-form] [class~=title-form],
+[class~=speed] {
+    margin-top: auto;
+}
+
+[class~=speed],
+.download,
+[class~=login-form] [class~=menu-form] {
+    justify-content: center;
+}
+
+.promo .item a img {
+    height: 100%;
+}
+
+.download {
+    width: 48%;
+}
+
+.form .btn-login:hover,
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek],
+[class~=form] [class~=login-input] input {
+    border-top-style: solid;
+}
+
+[class~=top-btn] svg,
+[class~=menu-form] [class~=title-form] {
+    margin-right: auto;
+}
+
+[class~=login-form] [class~=menu-form] {
+    background-color: #138ce2;
+}
+
+.form .btn-login:hover,
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek] {
+    border-left-color: #118eea;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    border-top-width: medium;
+}
+
+.download {
+    display: grid;
+}
+
+[class~=login-form] [class~=menu-form] {
+    display: flex;
+}
+
+.form .btn-login:hover,
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek] {
+    border-bottom-color: #118eea;
+}
+
+[class~=menu-form] [class~=title-form] {
+    width: auto;
+}
+
+[class~=menu-form] [class~=title-form] {
+    height: 40px;
+}
+
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek],
+.form .btn-login:hover {
+    border-right-color: #118eea;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    border-left-style: none;
+}
+
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek],
+.form .btn-login:hover {
+    border-top-color: #118eea;
+}
+
+[class~=form] [class~=login-input] input {
+    border-left-color: #e7e7e7;
+}
+
+[class~=menu-form] [class~=title-form] {
+    margin-bottom: auto;
+}
+
+.form .btn-login:hover,
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek] {
+    border-image: none;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    border-bottom-style: none;
+}
+
+[class~=menu-form] [class~=title-form],
+.form .btn-login:hover {
+    background: #fff;
+}
+
+[class~=form] [class~=btn-login]:focus,
+[class~=form] [class~=login-input] input {
+    outline: none;
+}
+
+[class~=login-form] [class~=error] [class~=bi-x-diamond-fill] {
+    color: #a52a2a;
+}
+
+[class~=menu-form] [class~=title-form] {
+    padding-left: .104166667in;
+}
+
+[class~=menu-form] [class~=title-form] {
+    padding-bottom: .104166667in;
+}
+
+[class~=form] [class~=login-input] input {
+    border-bottom-color: #e7e7e7;
+}
+
+[class~=menu-form] [class~=title-form] {
+    padding-right: .104166667in;
+}
+
+[class~=menu-form] [class~=title-form] {
+    padding-top: .104166667in;
+}
+
+.login-form .info .bi-info-circle-fill,
+[class~=login-form] [class~=error] [class~=bi-x-diamond-fill] {
+    margin-right: .25pc;
+}
+
+[class~=login-form] [class~=error] [class~=descrip] {
+    color: #ec7881;
+}
+
+[class~=menu-form] [class~=title-form],
+[class~=speed] [class~=download] [class~=title],
+[class~=speed] [class~=upload] [class~=title],
+[class~=speed] [class~=upload] [class~=sub-title] {
+    font-family: sans-serif;
+}
+
+[class~=menu-form] [class~=title-form],
+[class~=speed] [class~=upload] [class~=title],
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek],
+[class~=speed] [class~=download] [class~=title] {
+    font-weight: bold;
+}
+
+[class~=title-form] [class~=link],
+.login-form .info .bi-info-circle-fill,
+[class~=login-form] [class~=trial] a,
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    color: #118eea;
+}
+
+.download,
+[class~=form] [class~=login-input] input,
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek] {
+    border-radius: 1.25pc;
+}
+
+[class~=form] [class~=login-input] input,
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek],
+[class~=top-menu] [class~=box] [class~=back] button {
+    background: none;
+}
+
+[class~=form] [class~=login-input] input {
+    border-right-color: #e7e7e7;
+}
+
+[class~=menu-form] [class~=title-form] {
+    border-radius: 7.5pt;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    border-right-style: none;
+}
+
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek] {
+    transition-duration: 250ms;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    border-top-style: none;
+}
+
+.kuota {
+    width: 90%;
+}
+
+[class~=form] [class~=login-input] input {
+    border-top-color: #e7e7e7;
+}
+
+[class~=form] [class~=login-input] input {
+    border-image: none;
+}
+
+[class~=title-form] [class~=title] {
+    width: 100%;
+}
+
+[class~=promo] [class~=item]:last-child {
+    min-width: 7.5pt;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    border-left-color: currentColor;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    border-bottom-color: currentColor;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    width: 48%;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    border-right-color: currentColor;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    border-top-color: currentColor;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button {
+    border-image: none;
+}
+
+[class~=speed] [class~=download] [class~=title],
+[class~=speed] [class~=upload] [class~=sub-title],
+[class~=speed] [class~=upload] [class~=title],
+[class~=form] [class~=btn-login] {
+    color: #fff;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek],
+[class~=form] [class~=btn-login] {
+    height: 2.5pc;
+}
+
+[class~=title-form] [class~=title] {
+    padding-right: .625pc;
+}
+
+[class~=title-form] [class~=link] {
+    margin-top: .041666667in;
+}
+
+[class~=title-form] [class~=link],
+[class~=speed] [class~=upload] [class~=sub-title] {
+    font-size: .75pc;
+}
+
+[class~=login-form] [class~=trial] a,
+[class~=title-form] [class~=link] {
+    text-decoration: none;
+}
+
+.login-form .form {
+    width: 90%;
+}
+
+[class~=form] [class~=btn-login],
+.speed .upload svg,
+.kuota,
+.login-form .form {
+    margin-left: auto;
+}
+
+[class~=form] [class~=btn-login],
+.login-form .form {
+    margin-bottom: 0;
+}
+
+[class~=top-btn] svg {
+    margin-top: auto;
+}
+
+[class~=form] [class~=btn-login],
+.kuota,
+[class~=kuota] [class~=data] [class~=title],
+.login-form .form {
+    margin-right: auto;
+}
+
+.login-form .form {
+    margin-top: 0;
+}
+
+.kuota {
+    margin-bottom: 1.25pc;
+}
+
+[class~=kuota] [class~=data] [class~=title],
+[class~=speed] [class~=download] [class~=sub-title],
+[class~=login-form] [class~=trial] a:hover,
+[class~=form] [class~=btn-login],
+[class~=speed] [class~=upload] [class~=sub-title],
+[class~=login-form] [class~=login-title] {
+    font-weight: bold;
+}
+
+[class~=login-form] [class~=login-title] {
+    margin-top: 1.25pc;
+}
+
+[class~=login-form] [class~=trial] a:hover {
+    color: #1283d3;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-left-width: .75pt;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-bottom-width: .75pt;
+}
+
+[class~=top-menu] [class~=box] [class~=back] button:focus {
+    outline: none;
+}
+
+[class~=login-form] [class~=login-title],
+[class~=login-form] [class~=trial] a,
+[class~=speed] [class~=download] [class~=sub-title],
+[class~=form] [class~=btn-login] {
+    font-family: sans-serif;
+}
+
+[class~=login-form] [class~=login-title],
+[class~=form] [class~=btn-login],
+[class~=speed] [class~=download] [class~=sub-title],
+[class~=speed] [class~=upload] [class~=sub-title] {
+    text-align: center;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-right-width: .75pt;
+}
+
+[class~=ket-voucher] [class~=descrip] [class~=dex] ul {
+    margin-left: 7.5pt;
+}
+
+.login-form .form {
+    margin-top: 10px;
+}
+
+[class~=form] [class~=btn-login] {
+    width: 100%;
+}
+
+[class~=speed] [class~=upload] [class~=sub-title],
+[class~=speed] [class~=download] [class~=sub-title] {
+    margin-bottom: 10px;
+}
+
+.speed .upload svg,
+[class~=kuota] [class~=data] [class~=title],
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek]:hover,
+.speed .download svg,
+.ket-voucher .button-beli button:hover,
+[class~=form-pesanan] [class~=form] [class~=button-beli] button:hover,
+[class~=kuota] [class~=data] svg,
+[class~=speed] [class~=download] [class~=sub-title] {
+    color: #fff;
+}
+
+[class~=ket-voucher] [class~=descrip] [class~=dex] ul,
+.speed .upload svg {
+    margin-bottom: 7.5pt;
+}
+
+[class~=ket-voucher] [class~=descrip] [class~=dex] ul {
+    margin-right: 7.5pt;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-top-width: .75pt;
+}
+
+[class~=ket-voucher] [class~=descrip] [class~=dex] ul,
+.speed .upload svg {
+    margin-top: 7.5pt;
+}
+
+.kuota {
+    margin-top: 1.25pc;
+}
+
+[class~=form] [class~=btn-login] {
+    margin-top: .9375pc;
+}
+
+.kuota,
+[class~=promo] [class~=item] a {
+    display: flex;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-left-style: solid;
+}
+
+[class~=speed] [class~=download] [class~=sub-title] {
+    font-size: 12px;
+}
+
+[class~=ket-voucher] [class~=descrip] [class~=dex] ul {
+    margin-inline-start: 0;
+}
+
+[class~=form] [class~=btn-login] {
+    border-radius: 15pt;
+}
+
+[class~=kuota] [class~=data] svg,
+.login-form .trial,
+[class~=vecimg],
+[class~=login-form] [class~=error],
+.speed .download svg,
+[class~=detail],
+[class~=kuota] [class~=data] [class~=title],
+[class~=kuota] [class~=sisa-kuota] [class~=title] {
+    margin-left: auto;
+}
+
+[class~=form] [class~=btn-login] {
+    border-left-width: medium;
+}
+
+[class~=form] [class~=btn-login] {
+    border-bottom-width: medium;
+}
+
+[class~=form] [class~=btn-login] {
+    border-right-width: medium;
+}
+
+[class~=vecimg],
+[class~=kuota] [class~=sisa-kuota] [class~=title],
+[class~=kuota] [class~=data] [class~=title] {
+    margin-bottom: auto;
+}
+
+[class~=form] [class~=btn-login] {
+    border-top-width: medium;
+}
+
+[class~=form] [class~=btn-login] {
+    border-left-style: none;
+}
+
+[class~=form] [class~=btn-login] {
+    border-bottom-style: none;
+}
+
+.speed .download svg,
+[class~=vecimg],
+.login-form .trial,
+.speed .upload svg {
+    margin-right: auto;
+}
+
+[class~=kuota] [class~=sisa-kuota] [class~=title],
+[class~=kuota] [class~=data] [class~=title] {
+    margin-top: auto;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button:hover,
+[class~=form] [class~=btn-login],
+.ket-voucher .button-beli button:hover,
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek]:hover {
+    background: #118eea;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-bottom-style: solid;
+}
+
+[class~=kuota] [class~=data] [class~=title] {
+    font-family: sans-serif;
+}
+
+[class~=form] [class~=btn-login] {
+    border-right-style: none;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-right-style: solid;
+}
+
+[class~=carrera] [class~=row] [class~=button] [class~=btn-cek]:focus,
+[class~=ket-voucher] [class~=button-beli] button:focus {
+    outline: none;
+}
+
+[class~=form] [class~=btn-login] {
+    border-top-style: none;
+}
+
+[class~=vecimg] {
+    width: 90%;
+}
+
+.speed .download svg {
+    margin-bottom: .104166667in;
+}
+
+[class~=form] [class~=btn-login] {
+    border-left-color: currentColor;
+}
+
+[class~=form] [class~=btn-login] {
+    border-bottom-color: currentColor;
+}
+
+[class~=form] [class~=btn-login] {
+    border-right-color: currentColor;
+}
+
+[class~=form] [class~=btn-login] {
+    border-top-color: currentColor;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-top-style: solid;
+}
+
+[class~=form] [class~=btn-login] {
+    border-image: none;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    width: 100%;
+}
+
+[class~=kuota] [class~=sisa-kuota] [class~=title] {
+    margin-right: 15pt;
+}
+
+[class~=form] [class~=btn-login] {
+    transition-duration: 250ms;
+}
+
+[class~=login-form] [class~=error],
+.login-form .trial {
+    width: 80%;
+}
+
+.login-form .trial,
+.speed .download svg {
+    margin-top: .104166667in;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input,
+.login-form .trial {
+    margin-bottom: 0;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    height: .3125in;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-left-color: #118eea;
+}
+
+[class~=detail] [class~=row] [class~=title],
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    margin-left: 0;
+}
+
+.login-form .trial {
+    display: flex;
+}
+
+.login-form .trial {
+    justify-content: center;
+}
+
+[class~=login-form] [class~=error] {
+    margin-bottom: 1.25pc;
+}
+
+[class~=kuota] [class~=sisa-kuota] [class~=title] {
+    color: #757575;
+}
+
+[class~=detail],
+[class~=login-form] [class~=error] {
+    margin-right: auto;
+}
+
+[class~=kuota] [class~=sisa-kuota] [class~=title] {
+    font-family: sans-serif;
+}
+
+[class~=detail] [class~=row] [class~=title],
+[class~=detail],
+[class~=vecimg],
+[class~=kuota] [class~=data] svg {
+    margin-top: auto;
+}
+
+[class~=login-form] [class~=error] {
+    margin-top: 1.25pc;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-bottom-color: #118eea;
+}
+
+[class~=kuota] [class~=sisa-kuota] [class~=title] {
+    font-weight: bold;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button:focus,
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek]:focus {
+    outline: none;
+}
+
+[class~=detail] [class~=row]:first-child {
+    background-image: linear-gradient(to top, #118eea, #6ad0ff);
+}
+
+[class~=login-form] [class~=error] {
+    padding-left: 7.5pt;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek]:hover {
+    background: #118eea;
+}
+
+[class~=detail] [class~=row]:nth-child(2) {
+    background-image: linear-gradient(to top, #11ea97, #6affc1);
+}
+
+[class~=login-form] [class~=error] {
+    padding-bottom: 7.5pt;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-right-color: #118eea;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-top-color: #118eea;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-image: none;
+}
+
+.detail .row:nth-child(3) {
+    background-image: linear-gradient(to top, #eab711, #ffdc6a);
+}
+
+[class~=login-form] [class~=error] {
+    padding-right: 7.5pt;
+}
+
+[class~=waktu],
+[class~=detail] {
+    width: 90%;
+}
+
+[class~=login-form] [class~=error] {
+    padding-top: 7.5pt;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    border-radius: .208333333in;
+}
+
+[class~=login-form] [class~=error] {
+    border-left-width: .0625pc;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    background: none;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input,
+[class~=login-form] [class~=error] {
+    border-bottom-width: .0625pc;
+}
+
+[class~=detail] [class~=row]:nth-child(4) {
+    background-image: linear-gradient(to top, #6f11ea, #926aff);
+}
+
+[class~=login-form] [class~=error] {
+    border-right-width: .0625pc;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input,
+[class~=detail] [class~=row] [class~=title] {
+    margin-right: 0;
+}
+
+[class~=detail] [class~=row] [class~=title],
+.detail .row svg,
+.waktu .row svg,
+[class~=detail] [class~=row] [class~=sub-title],
+[class~=waktu],
+[class~=detail],
+[class~=kuota] [class~=data] svg {
+    margin-bottom: auto;
+}
+
+[class~=carrera] [class~=row] [class~=butex] [class~=btn-cek] {
+    transition-duration: 250ms;
+}
+
+[class~=login-form] [class~=error] {
+    border-top-width: .0625pc;
+}
+
+[class~=login-form] [class~=error] {
+    border-left-style: solid;
+}
+
+[class~=kuota] [class~=data] svg {
+    margin-right: 0;
+}
+
+[class~=menu-form] a,
+[class~=form-pesanan] [class~=form] [class~=rw] [class~=kuan]:hover {
+    color: #fff;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    margin-top: 0;
+}
+
+.detail .row svg {
+    margin-left: .625pc;
+}
+
+[class~=login-form] [class~=error],
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    border-bottom-style: solid;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] [class~=title] {
+    text-align: start;
+}
+
+[class~=waktu],
+.login-form .info,
+.menu-form a svg,
+.waktu .row svg,
+[class~=detail] [class~=row] [class~=sub-title],
+[class~=carrera] [class~=row] span {
+    margin-left: auto;
+}
+
+[class~=login-form] [class~=error] {
+    border-right-style: solid;
+}
+
+[class~=login-form] [class~=error] {
+    border-top-style: solid;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] [class~=title] {
+    font-weight: normal;
+}
+
+[class~=login-form] [class~=error] {
+    border-left-color: #e7e7e7;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    border-left-width: medium;
+}
+
+[class~=login-form] [class~=error] {
+    border-bottom-color: #e7e7e7;
+}
+
+[class~=detail] [class~=row] [class~=sub-title] {
+    margin-right: .625pc;
+}
+
+[class~=login-form] [class~=error] {
+    border-right-color: #e7e7e7;
+}
+
+[class~=login-form] [class~=error] {
+    border-top-color: #e7e7e7;
+}
+
+[class~=waktu],
+.waktu .row svg,
+.detail .row svg,
+[class~=detail] [class~=row] [class~=sub-title] {
+    margin-top: auto;
+}
+
+.detail .row svg {
+    margin-right: .625pc;
+}
+
+[class~=login-form] [class~=error] {
+    border-image: none;
+}
+
+[class~=login-form] [class~=error] {
+    border-radius: 10px;
+}
+
+.login-form .info {
+    width: 80%;
+}
+
+[class~=waktu] [class~=row]:first-child {
+    color: #6f11ea;
+}
+
+[class~=waktu] [class~=row]:first-child {
+    border-left-width: 1.5pt;
+}
+
+.login-form .info {
+    margin-bottom: 1.25pc;
+}
+
+[class~=waktu] [class~=row]:first-child {
+    border-bottom-width: 1.5pt;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    border-right-width: medium;
+}
+
+[class~=waktu],
+.login-form .info {
+    margin-right: auto;
+}
+
+.login-form .info {
+    margin-top: 1.25pc;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    border-top-width: medium;
+}
+
+.login-form .info {
+    padding-left: .104166667in;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    border-left-style: none;
+}
+
+.form-pesanan .form .rw .kuan,
+[class~=info-top] [class~=box] [class~=row] button:focus {
+    outline: none;
+}
+
+.login-form .info {
+    padding-bottom: .104166667in;
+}
+
+.login-form .info {
+    padding-right: .104166667in;
+}
+
+.login-form .info {
+    padding-top: .104166667in;
+}
+
+.waktu .row svg {
+    margin-right: 7.5pt;
+}
+
+[class~=waktu] [class~=row]:first-child {
+    border-right-width: 1.5pt;
+}
+
+[class~=waktu] [class~=row]:first-child {
+    border-top-width: 1.5pt;
+}
+
+.form-pesanan .form .rw .kuan,
+.login-form .info {
+    border-left-width: .75pt;
+}
+
+.form-pesanan .form .rw .kuan {
+    width: .291666667in;
+}
+
+[class~=info-pesanan] [class~=box] [class~=row] [class~=descrip] [class~=row] p {
+    margin-left: 0;
+}
+
+.login-form .info,
+.form-pesanan .form .rw .kuan,
+[class~=info-top] [class~=box] [class~=row] #kembali {
+    border-bottom-width: .75pt;
+}
+
+[class~=menu-form] a {
+    font-family: sans-serif;
+}
+
+.login-form .info,
+.form-pesanan .form .rw .kuan {
+    border-right-width: .75pt;
+}
+
+.login-form .info,
+.form-pesanan .form .rw .kuan {
+    border-top-width: .75pt;
+}
+
+[class~=carrera] [class~=row] span {
+    margin-bottom: .104166667in;
+}
+
+[class~=waktu] [class~=row]:first-child,
+.login-form .info {
+    border-left-style: solid;
+}
+
+[class~=menu-form] a {
+    font-weight: bold;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    border-right-style: none;
+}
+
+[class~=waktu] [class~=row]:first-child,
+.login-form .info {
+    border-bottom-style: solid;
+}
+
+[class~=waktu] [class~=row]:first-child,
+.login-form .info {
+    border-right-style: solid;
+}
+
+[class~=waktu] [class~=row]:first-child,
+.login-form .info {
+    border-top-style: solid;
+}
+
+[class~=carrera] [class~=row] span,
+[class~=ket-voucher] [class~=img] img {
+    margin-right: auto;
+}
+
+[class~=carrera] [class~=row] span {
+    margin-top: .104166667in;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    border-top-style: none;
+}
+
+.form-pesanan .form .rw .kuan {
+    height: 21pt;
+}
+
+[class~=logout] {
+    width: 90%;
+}
+
+[class~=carrera] [class~=row] span,
+.form-pesanan .form .rw .kuan {
+    text-align: center;
+}
+
+[class~=menu-form] a {
+    text-decoration: none;
+}
+
+.login-form .info {
+    border-left-color: #e7e7e7;
+}
+
+.login-form .info {
+    border-bottom-color: #e7e7e7;
+}
+
+.login-form .info {
+    border-right-color: #e7e7e7;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] [class~=kuan]:hover {
+    background: #a52a2a;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    border-left-color: currentColor;
+}
+
+.login-form .info {
+    border-top-color: #e7e7e7;
+}
+
+[class~=waktu] [class~=row]:first-child {
+    border-left-color: #6f11ea;
+}
+
+[class~=carrera] [class~=row] span {
+    font-size: 12px;
+}
+
+[class~=ket-voucher] [class~=img] img {
+    max-height: 150px;
+}
+
+.form-pesanan .form .rw .kuan {
+    cursor: pointer;
+}
+
+[class~=waktu] [class~=row]:first-child {
+    border-bottom-color: #6f11ea;
+}
+
+[class~=waktu] [class~=row]:first-child {
+    border-right-color: #6f11ea;
+}
+
+[class~=ket-voucher] [class~=img] img,
+[class~=logout] {
+    margin-left: auto;
+}
+
+.login-form .info {
+    border-image: none;
+}
+
+[class~=waktu] [class~=row]:first-child {
+    border-top-color: #6f11ea;
+}
+
+[class~=waktu] [class~=row]:first-child {
+    border-image: none;
+}
+
+[class~=waktu] [class~=row]:nth-child(2) {
+    color: #11ea97;
+}
+
+[class~=waktu] [class~=row]:nth-child(2) {
+    border-left-width: 1.5pt;
+}
+
+[class~=promo] [class~=item] a:hover img,
+[class~=ket-voucher] [class~=img] img {
+    margin-top: auto;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    border-bottom-color: #bbb;
+}
+
+[class~=waktu] [class~=row]:nth-child(2) {
+    border-bottom-width: 1.5pt;
+}
+
+[class~=waktu] [class~=row]:nth-child(2),
+.form-pesanan .form .rw .kuan {
+    border-left-style: solid;
+}
+
+[class~=waktu] [class~=row]:nth-child(2) {
+    border-right-width: 1.5pt;
+}
+
+[class~=ket-voucher] [class~=img] img,
+.login-form .info {
+    border-radius: .625pc;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] [class~=kuant]:disabled {
+    background: none;
+}
+
+[class~=login-form] [class~=descrip] {
+    font-family: sans-serif;
+}
+
+[class~=ket-voucher] [class~=img] img,
+.ket-voucher .button-beli button {
+    margin-bottom: auto;
+}
+
+[class~=waktu] [class~=row]:nth-child(2) {
+    border-top-width: 1.5pt;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    border-right-color: currentColor;
+}
+
+.promo .item {
+    min-width: .9375in;
+}
+
+.promo .item {
+    margin-left: .5em;
+}
+
+.promo .item {
+    margin-bottom: 1em;
+}
+
+.promo .item {
+    margin-right: .5em;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    border-top-color: currentColor;
+}
+
+.promo .item {
+    margin-top: 0pc;
+}
+
+.ket-voucher .button-beli button,
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    width: 12.5pc;
+}
+
+.form-pesanan .form .rw .kuan,
+[class~=waktu] [class~=row]:nth-child(2) {
+    border-bottom-style: solid;
+}
+
+.form-pesanan .form .rw .kuan,
+[class~=waktu] [class~=row]:nth-child(2) {
+    border-right-style: solid;
+}
+
+[class~=speed] [class~=upload] {
+    background: linear-gradient(to right, #f16704, #ffad61);
+}
+
+.speed .download {
+    background: linear-gradient(to right, #93338d, #bd79b4);
+}
+
+.ket-voucher .button-beli button,
+[class~=kuota] [class~=data],
+[class~=kuota] [class~=sisa-kuota],
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    height: 30pt;
+}
+
+[class~=waktu] [class~=row]:nth-child(2),
+.form-pesanan .form .rw .kuan {
+    border-top-style: solid;
+}
+
+[class~=speed] [class~=upload] {
+    width: 48%;
+}
+
+[class~=speed] [class~=upload] {
+    display: grid;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    border-image: none;
+}
+
+[class~=speed] [class~=upload],
+[class~=kuota] [class~=data] {
+    justify-content: center;
+}
+
+[class~=waktu] [class~=row]:nth-child(2) {
+    border-left-color: #11ea97;
+}
+
+[class~=speed] [class~=upload] {
+    border-radius: 15pt;
+}
+
+[class~=speed] [class~=upload] {
+    margin-right: auto;
+}
+
+[class~=waktu] [class~=row]:nth-child(2) {
+    border-bottom-color: #11ea97;
+}
+
+[class~=speed] [class~=download] {
+    margin-left: auto;
+}
+
+[class~=waktu] [class~=row]:nth-child(2) {
+    border-right-color: #11ea97;
+}
+
+[class~=kuota] [class~=data] {
+    width: 40%;
+}
+
+.ket-voucher .button-beli button,
+[class~=kuota] [class~=data],
+[class~=form-pesanan] [class~=form] [class~=button-beli] button,
+[class~=ket-voucher] [class~=descrip] [class~=dex] ul li {
+    margin-left: auto;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    font-size: 14px;
+}
+
+[class~=waktu] [class~=row]:nth-child(2) {
+    border-top-color: #11ea97;
+}
+
+[class~=waktu] [class~=row]:nth-child(2) {
+    border-image: none;
+}
+
+[class~=logout],
+[class~=kuota] [class~=data],
+.ket-voucher .button-beli button {
+    margin-right: auto;
+}
+
+[class~=info-pesanan] [class~=box] [class~=row] [class~=descrip] [class~=row] [class~=title] {
+    margin-left: 0;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] input {
+    outline: none;
+}
+
+[class~=waktu] [class~=row]:nth-child(3) {
+    color: #eab711;
+}
+
+.ket-voucher .button-beli button,
+[class~=kuota] [class~=data],
+[class~=logout],
+[class~=waktu] [class~=row] [class~=title] {
+    margin-top: auto;
+}
+
+[class~=waktu] [class~=row] [class~=title],
+[class~=logout],
+[class~=form-pesanan] [class~=form] [class~=button-beli] button,
+[class~=kuota] [class~=data] {
+    margin-bottom: auto;
+}
+
+[class~=waktu] [class~=row]:nth-child(3) {
+    border-left-width: .125pc;
+}
+
+[class~=waktu] [class~=row]:nth-child(3) {
+    border-bottom-width: .125pc;
+}
+
+[class~=waktu] [class~=row]:nth-child(3) {
+    border-right-width: .125pc;
+}
+
+.ket-voucher .button-beli button,
+.form-pesanan .form .rw .kuan {
+    border-left-color: #118eea;
+}
+
+.ket-voucher .button-beli button,
+.form-pesanan .form .rw .kuan {
+    color: #118eea;
+}
+
+.ket-voucher .button-beli button,
+.form-pesanan .form .rw .kuan {
+    border-bottom-color: #118eea;
+}
+
+[class~=info-top] [class~=box] [class~=row] button [class~=title] {
+    color: #424345;
+}
+
+[class~=kuota] [class~=data] {
+    border-radius: 1.25pc 0 0 15pt;
+}
+
+[class~=logout],
+[class~=kuota] [class~=data] {
+    display: flex;
+}
+
+.ket-voucher .button-beli button {
+    font-weight: bold;
+}
+
+.ket-voucher .button-beli button,
+[class~=kuota] [class~=sisa-kuota] {
+    border-left-width: .75pt;
+}
+
+[class~=waktu] [class~=row]:nth-child(3) {
+    border-top-width: .125pc;
+}
+
+.ket-voucher .button-beli button,
+.form-pesanan .form .rw .kuan {
+    border-right-color: #118eea;
+}
+
+[class~=kuota] [class~=data] {
+    background-image: linear-gradient(to left, #118eea, #6ad0ff);
+}
+
+.ket-voucher .button-beli button,
+.form-pesanan .form .rw .kuan {
+    border-top-color: #118eea;
+}
+
+.ket-voucher .button-beli button,
+[class~=kuota] [class~=sisa-kuota] {
+    border-bottom-width: .75pt;
+}
+
+[class~=waktu] [class~=row]:nth-child(3),
+.ket-voucher .button-beli button,
+[class~=kuota] [class~=sisa-kuota] {
+    border-left-style: solid;
+}
+
+.ket-voucher .button-beli button,
+[class~=kuota] [class~=sisa-kuota],
+[class~=waktu] [class~=row]:nth-child(3) {
+    border-bottom-style: solid;
+}
+
+.form-pesanan .form .rw .kuan {
+    border-image: none;
+}
+
+[class~=waktu] [class~=row]:nth-child(3),
+[class~=kuota] [class~=sisa-kuota],
+.ket-voucher .button-beli button {
+    border-right-style: solid;
+}
+
+[class~=kuota] [class~=sisa-kuota] {
+    width: 60%;
+}
+
+[class~=kuota] [class~=sisa-kuota],
+.ket-voucher .button-beli button {
+    border-right-width: .75pt;
+}
+
+.form-pesanan .form .rw .kuan {
+    border-radius: 20%;
+}
+
+[class~=kuota] [class~=sisa-kuota],
+.ket-voucher .button-beli button {
+    border-top-width: .75pt;
+}
+
+[class~=kuota] [class~=sisa-kuota],
+[class~=waktu] [class~=row]:nth-child(3),
+.ket-voucher .button-beli button {
+    border-top-style: solid;
+}
+
+.carrera {
+    width: 90%;
+}
+
+[class~=promo] [class~=item] a:hover img {
+    border-radius: .625pc;
+}
+
+[class~=waktu] [class~=row]:nth-child(3) {
+    border-left-color: #eab711;
+}
+
+[class~=waktu] [class~=row]:nth-child(3) {
+    border-bottom-color: #eab711;
+}
+
+[class~=waktu] [class~=row]:nth-child(3) {
+    border-right-color: #eab711;
+}
+
+[class~=waktu] [class~=row]:nth-child(3) {
+    border-top-color: #eab711;
+}
+
+[class~=waktu] [class~=row]:nth-child(3),
+.ket-voucher .button-beli button {
+    border-image: none;
+}
+
+[class~=waktu] [class~=row] [class~=title] {
+    margin-left: 7.5pt;
+}
+
+.ket-voucher .button-beli button,
+.form-pesanan .form .rw .kuan {
+    background: #fff;
+}
+
+[class~=ket-voucher] [class~=descrip] [class~=dex] ul li {
+    margin-bottom: 2px;
+}
+
+[class~=waktu] [class~=row] [class~=title] {
+    margin-right: 7.5pt;
+}
+
+[class~=payout-detail] [class~=aktif] svg,
+[class~=form-pesanan] [class~=form] [class~=rw] [class~=kuant] {
+    width: 10%;
+}
+
+.logout .btn-logout:hover,
+.detail .row {
+    color: #fff;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] [class~=kuant] {
+    text-align: center;
+}
+
+[class~=kuota] [class~=sisa-kuota] {
+    border-left-color: #118eea;
+}
+
+[class~=kuota] [class~=sisa-kuota] {
+    border-bottom-color: #118eea;
+}
+
+.info-pesanan .box .row .title,
+[class~=carrera] [class~=row] [class~=img],
+.detail .row,
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    margin-right: auto;
+}
+
+[class~=kuota] [class~=sisa-kuota] {
+    border-right-color: #118eea;
+}
+
+[class~=carrera] [class~=row] [class~=img],
+[class~=info-pesanan] [class~=box] [class~=row] [class~=descrip],
+.info-pesanan .box .row .title,
+.detail .row,
+.info-pesanan .box .row .btn,
+[class~=waktu] [class~=row],
+.info-pesanan .box .row .descrip .row,
+[class~=payout-detail] [class~=button-beli] button {
+    width: 100%;
+}
+
+.logout .btn-logout:hover {
+    background: #a52a2a;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button,
+[class~=carrera] [class~=row] [class~=img] {
+    margin-top: auto;
+}
+
+.ket-voucher .button-beli button {
+    border-radius: 20px;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    color: #118eea;
+}
+
+[class~=kuota] [class~=sisa-kuota] {
+    border-top-color: #118eea;
+}
+
+[class~=kuota] [class~=sisa-kuota] {
+    border-image: none;
+}
+
+[class~=payout-detail] [class~=aktif] svg,
+[class~=carrera] [class~=row] [class~=title],
+.info-pesanan .box .row .title,
+[class~=carrera] [class~=row] [class~=img],
+[class~=menu-form] a,
+.info-pesanan .box .row .descrip .row,
+[class~=waktu] [class~=row],
+.detail .row {
+    margin-left: auto;
+}
+
+[class~=kuota] [class~=sisa-kuota] {
+    border-radius: 0 1.25pc 20px 0;
+}
+
+[class~=logout] [class~=btn-logout]:focus {
+    outline: none;
+}
+
+.carrera {
+    position: absolute;
+}
+
+.info-pesanan .box .row .title,
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    font-weight: bold;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-left-width: .0625pc;
+}
+
+.info-pesanan .box .row .title {
+    margin-bottom: .208333333in;
+}
+
+.detail .row,
+[class~=kuota] [class~=sisa-kuota] {
+    display: flex;
+}
+
+.carrera {
+    top: 50%;
+}
+
+[class~=waktu] [class~=row],
+.detail .row {
+    height: 2.5pc;
+}
+
+.carrera {
+    left: 50%;
+}
+
+[class~=carrera] [class~=row] [class~=img],
+[class~=payout-detail] [class~=aktif] svg,
+[class~=carrera] [class~=row] [class~=title],
+[class~=info-top] [class~=box] [class~=row] button [class~=title] {
+    margin-bottom: auto;
+}
+
+[class~=title-voucher],
+.detail .row,
+[class~=waktu] [class~=row],
+[class~=carrera] [class~=row] [class~=button] {
+    margin-bottom: 7.5pt;
+}
+
+.info-pesanan .box .row .title {
+    margin-top: .208333333in;
+}
+
+.detail .row,
+[class~=waktu] [class~=row] {
+    margin-top: 7.5pt;
+}
+
+.carrera {
+    -moz-transform: translateX(-50%) translateY(-50%);
+}
+
+.carrera {
+    -webkit-transform: translateX(-50%) translateY(-50%);
+}
+
+.detail .row,
+[class~=waktu] [class~=row] {
+    border-radius: .625pc;
+}
+
+.carrera {
+    transform: translateX(-50%) translateY(-50%);
+}
+
+[class~=title-voucher] {
+    width: 90%;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-bottom-width: .0625pc;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-right-width: .0625pc;
+}
+
+[class~=carrera] [class~=row] [class~=butex],
+[class~=waktu] [class~=row],
+[class~=carrera] [class~=row] [class~=button],
+[class~=logout] [class~=btn-logout],
+[class~=ket-voucher] [class~=descrip] [class~=dex] ul li,
+[class~=title-voucher],
+[class~=carrera] [class~=row] [class~=title],
+[class~=payout-detail] [class~=aktif] svg {
+    margin-right: auto;
+}
+
+.info-pesanan .box .row .title {
+    font-size: 15pt;
+}
+
+[class~=payout-detail] [class~=aktif] svg,
+[class~=carrera] [class~=row] [class~=title] {
+    margin-top: auto;
+}
+
+.info-pesanan .box .row .title {
+    text-align: center;
+}
+
+[class~=payout-detail] [class~=aktif] svg {
+    color: #1f1f1f;
+}
+
+[class~=waktu] [class~=row] {
+    font-family: sans-serif;
+}
+
+[class~=carrera] [class~=row] [class~=butex],
+[class~=title-voucher],
+[class~=carrera] [class~=row] [class~=button],
+[class~=logout] [class~=btn-logout] {
+    margin-left: auto;
+}
+
+[class~=info-top] [class~=box] [class~=row] button [class~=title],
+.info-pesanan .box .row .btn {
+    margin-left: 0;
+}
+
+[class~=waktu] [class~=row] {
+    font-weight: bold;
+}
+
+[class~=waktu] [class~=row] {
+    display: flex;
+}
+
+[class~=logout] [class~=btn-logout],
+[class~=carrera] [class~=row] [class~=button] {
+    width: 80%;
+}
+
+[class~=waktu] [class~=expf] {
+    color: #39383b !important;
+}
+
+[class~=waktu] [class~=expf] {
+    border-left-width: .125pc !important;
+}
+
+[class~=waktu] [class~=expf] {
+    border-bottom-width: .125pc !important;
+}
+
+[class~=waktu] [class~=expf] {
+    border-right-width: .125pc !important;
+}
+
+.menu-form a svg {
+    margin-bottom: auto;
+}
+
+[class~=waktu] [class~=expf] {
+    border-top-width: .125pc !important;
+}
+
+[class~=waktu] [class~=expf] {
+    border-left-style: solid !important;
+}
+
+[class~=logout] [class~=btn-logout],
+[class~=payout-detail] [class~=button-beli] button,
+.info-pesanan .box .row .btn {
+    height: .416666667in;
+}
+
+[class~=waktu] [class~=expf] {
+    border-bottom-style: solid !important;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-top-width: .0625pc;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    border-left-width: medium;
+}
+
+[class~=waktu] [class~=expf] {
+    border-right-style: solid !important;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    border-bottom-width: medium;
+}
+
+[class~=waktu] [class~=expf] {
+    border-top-style: solid !important;
+}
+
+[class~=waktu] [class~=expf] {
+    border-left-color: #39383b !important;
+}
+
+[class~=waktu] [class~=expf] {
+    border-bottom-color: #39383b !important;
+}
+
+[class~=title-voucher],
+[class~=carrera] [class~=row] [class~=button],
+[class~=logout] [class~=btn-logout],
+[class~=carrera] [class~=row] [class~=butex] {
+    margin-top: 10px;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    border-right-width: medium;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-left-style: solid;
+}
+
+[class~=carrera] [class~=row] [class~=butex],
+[class~=list-voucher] {
+    width: 100%;
+}
+
+.info-pesanan .box .row .btn {
+    margin-bottom: 15pt;
+}
+
+.info-pesanan .box .row .btn {
+    margin-right: 0;
+}
+
+[class~=waktu] [class~=expf] {
+    border-right-color: #39383b !important;
+}
+
+[class~=logout] [class~=btn-logout],
+[class~=carrera] [class~=row] [class~=butex] {
+    margin-bottom: 7.5pt;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    border-top-width: medium;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    border-left-style: none;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-bottom-style: solid;
+}
+
+[class~=waktu] [class~=expf] {
+    border-top-color: #39383b !important;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    border-bottom-style: none;
+}
+
+[class~=waktu] [class~=expf] {
+    border-image: none !important;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    border-right-style: none;
+}
+
+.info-pesanan .box .row .btn {
+    margin-top: 0;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    border-top-style: none;
+}
+
+[class~=logout] [class~=btn-logout],
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-right-style: solid;
+}
+
+[class~=list-voucher] [class~=list] [class~=voucher] {
+    height: 112.5pt;
+}
+
+[class~=list-voucher] [class~=list] [class~=voucher] {
+    border-radius: 7.5pt;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    border-left-color: currentColor;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    border-bottom-color: currentColor;
+}
+
+[class~=ket-voucher] [class~=img] [class~=title] {
+    text-align: center;
+}
+
+[class~=logout] [class~=btn-logout],
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-top-style: solid;
+}
+
+[class~=title-voucher],
+[class~=logout] [class~=btn-logout] {
+    font-family: sans-serif;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-left-color: #118eea;
+}
+
+[class~=logout] [class~=btn-logout] {
+    color: #a52a2a;
+}
+
+[class~=ket-voucher] [class~=descrip] [class~=dex] ul li {
+    margin-top: 2px;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-bottom-color: #118eea;
+}
+
+.info-pesanan .box .row .btn,
+[class~=payout-detail] [class~=button-beli] button {
+    color: #fff;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    border-right-color: currentColor;
+}
+
+[class~=ket-voucher] [class~=img] [class~=title],
+.info-pesanan .box .row .btn,
+[class~=logout] [class~=btn-logout],
+[class~=payout-detail] [class~=button-beli] button,
+[class~=title-voucher],
+[class~=ket-voucher] [class~=descrip] [class~=title] {
+    font-weight: bold;
+}
+
+[class~=list-voucher],
+[class~=ket-voucher] [class~=img] [class~=title] {
+    margin-left: auto;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    border-top-color: currentColor;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    border-image: none;
+}
+
+[class~=logout] [class~=btn-logout] {
+    border-left-width: .0625pc;
+}
+
+[class~=logout] [class~=btn-logout] {
+    border-bottom-width: .0625pc;
+}
+
+.info-pesanan .box .row .descrip .row,
+[class~=carrera] [class~=row],
+[class~=menu-form] a,
+[class~=list-voucher] [class~=row] {
+    margin-bottom: auto;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-right-color: #118eea;
+}
+
+[class~=logout] [class~=btn-logout] {
+    border-right-width: .0625pc;
+}
+
+[class~=logout] [class~=btn-logout] {
+    border-top-width: .0625pc;
+}
+
+[class~=logout] [class~=btn-logout] {
+    border-left-style: solid;
+}
+
+.info-pesanan .box .row .btn,
+[class~=payout-detail] [class~=button-beli] button {
+    font-size: 16px;
+}
+
+[class~=logout] [class~=btn-logout] {
+    border-bottom-style: solid;
+}
+
+[class~=payout-detail] [class~=button-beli] button,
+[class~=logout] [class~=btn-logout],
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-radius: 20px;
+}
+
+[class~=list-voucher] {
+    margin-bottom: .208333333in;
+}
+
+[class~=ket-voucher] [class~=img] [class~=title] {
+    margin-bottom: 7.5pt;
+}
+
+[class~=info-pesanan] [class~=box] [class~=row],
+.info-pesanan .box .row .descrip .row,
+[class~=menu-form] a,
+[class~=form-pesanan] [class~=form] [class~=rw],
+[class~=list-voucher] [class~=row],
+[class~=carrera] [class~=row],
+[class~=list-voucher],
+[class~=ket-voucher] [class~=img] [class~=title] {
+    margin-right: auto;
+}
+
+[class~=logout] [class~=btn-logout] {
+    border-left-color: #a52a2a;
+}
+
+[class~=ket-voucher] [class~=img] [class~=title] {
+    margin-top: 7.5pt;
+}
+
+[class~=logout] [class~=btn-logout] {
+    border-bottom-color: #a52a2a;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-top-color: #118eea;
+}
+
+[class~=logout] [class~=btn-logout] {
+    border-right-color: #a52a2a;
+}
+
+[class~=info-top] [class~=box] [class~=row] button [class~=title] {
+    margin-right: 0;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    border-image: none;
+}
+
+.info-pesanan .box .row .btn,
+[class~=conin] [class~=row] button {
+    border-left-width: medium;
+}
+
+[class~=logout] [class~=btn-logout] {
+    border-top-color: #a52a2a;
+}
+
+[class~=conin] [class~=row] button,
+.info-pesanan .box .row .btn {
+    border-bottom-width: medium;
+}
+
+[class~=logout] [class~=btn-logout] {
+    border-image: none;
+}
+
+[class~=payout-detail] [class~=button-beli] button {
+    background: #118eea;
+}
+
+[class~=ket-voucher] [class~=img] [class~=title],
+[class~=ket-voucher] [class~=descrip] [class~=title] {
+    font-size: large;
+}
+
+[class~=logout] [class~=btn-logout] {
+    background-color: #fff;
+}
+
+[class~=logout] [class~=btn-logout] {
+    transition-duration: 250ms;
+}
+
+[class~=conin] [class~=row] button,
+[class~=payout-detail] [class~=row] [class~=img] img {
+    width: 100%;
+}
+
+[class~=conin] [class~=row] button,
+.info-pesanan .box .row .btn {
+    border-right-width: medium;
+}
+
+[class~=info-pesanan] [class~=box] [class~=row],
+[class~=carrera] [class~=row],
+[class~=list-voucher] [class~=row],
+[class~=form-pesanan] [class~=form] [class~=rw] {
+    margin-left: auto;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] {
+    width: 90%;
+}
+
+[class~=list-voucher],
+[class~=info-top] [class~=box] [class~=row] button [class~=title],
+[class~=list-voucher] [class~=row],
+[class~=carrera] [class~=row],
+.info-pesanan .box .row .descrip .row {
+    margin-top: auto;
+}
+
+[class~=conin] [class~=row] button,
+.info-pesanan .box .row .btn {
+    border-top-width: medium;
+}
+
+[class~=conin] [class~=row] button,
+.info-pesanan .box .row .btn {
+    border-left-style: none;
+}
+
+[class~=form-pesanan] [class~=form] [class~=button-beli] button {
+    background: #fff;
+}
+
+[class~=carrera] [class~=row] {
+    color: #3f3d56;
+}
+
+[class~=carrera] [class~=row] {
+    font-family: sans-serif;
+}
+
+[class~=conin] [class~=row] button,
+.info-pesanan .box .row .btn {
+    border-bottom-style: none;
+}
+
+[class~=carrera] [class~=row],
+[class~=ket-voucher] [class~=img] {
+    display: grid;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] {
+    margin-bottom: 15pt;
+}
+
+[class~=conin] [class~=row] button,
+.info-pesanan .box .row .btn {
+    border-right-style: none;
+}
+
+[class~=info-top] [class~=box] [class~=row] button,
+[class~=ket-voucher] [class~=img],
+.form-pesanan .form .button-beli,
+[class~=ket-voucher] [class~=descrip] {
+    width: 100%;
+}
+
+[class~=conin] [class~=row] button,
+.info-pesanan .box .row .btn {
+    border-top-style: none;
+}
+
+[class~=info-top] [class~=box] [class~=row] button {
+    height: 100%;
+}
+
+[class~=info-top] [class~=box] [class~=row] button,
+[class~=ket-voucher] [class~=button-beli],
+.form-pesanan .form .button-beli,
+[class~=list-voucher] {
+    display: flex;
+}
+
+[class~=form-pesanan] [class~=form] [class~=rw] {
+    margin-top: 15pt;
+}
+
+[class~=conin] [class~=row] button,
+.info-pesanan .box .row .btn {
+    border-left-color: currentColor;
+}
+
+.info-pesanan .box .row .btn,
+[class~=conin] [class~=row] button {
+    border-bottom-color: currentColor;
+}
+
+.info-pesanan .box .row .btn {
+    border-right-color: currentColor;
+}
+
+.info-pesanan .box .row .btn {
+    border-top-color: currentColor;
+}
+
+.info-pesanan .box .row .btn {
+    border-image: none;
+}
+
+[class~=payout-detail] [class~=row] [class~=descrip] [class~=ket],
+.form-pesanan .form .button-beli {
+    margin-top: 7.5pt;
+}
+
+.info-pesanan .box .row .btn {
+    border-radius: .052083333in;
+}
+
+[class~=form-pesanan] [class~=title],
+[class~=info-top] [class~=box] [class~=row] button [class~=title] {
+    font-weight: bold;
+}
+
+.info-pesanan .box .row .btn {
+    background: linear-gradient(to top, #118eea, #6ad0ff);
+}
+
+[class~=list-voucher] [class~=row] {
+    padding-left: .052083333in;
+}
+
+.form-pesanan .form .button-beli {
+    margin-bottom: .208333333in;
+}
+
+[class~=list-voucher] [class~=row] {
+    padding-bottom: 0;
+}
+
+[class~=info-pesanan] [class~=box] [class~=row],
+[class~=ket-voucher],
+[class~=ket-voucher] [class~=button-beli] {
+    width: 90%;
+}
+
+[class~=payout-detail] [class~=row] [class~=descrip] [class~=title] {
+    color: #4c4c4c;
+}
+
+[class~=list-voucher] [class~=row] {
+    padding-right: .052083333in;
+}
+
+[class~=payout-detail] [class~=row] [class~=descrip] [class~=title],
+[class~=payout-detail] [class~=row] [class~=descrip] [class~=ket] {
+    font-size: small;
+}
+
+[class~=list-voucher] {
+    overflow-x: auto;
+}
+
+[class~=list-voucher] [class~=row] {
+    padding-top: 0;
+}
+
+[class~=list-voucher] [class~=list] {
+    text-decoration: none;
+}
+
+[class~=payout-detail] [class~=row] [class~=descrip] [class~=ket] {
+    color: #717171;
+}
+
+[class~=ket-voucher] [class~=descrip] {
+    margin-top: 1.25pc;
+}
+
+[class~=ket-voucher] [class~=descrip] {
+    color: #6b6b6b;
+}
+
+[class~=ket-voucher] [class~=descrip] {
+    font-family: sans-serif;
+}
+
+[class~=ket-voucher],
+[class~=ket-voucher] [class~=button-beli] {
+    margin-left: auto;
+}
+
+[class~=payout-detail] [class~=aktif] [class~=time],
+.payout-detail .detail-harga .title,
+[class~=ket-voucher],
+[class~=info-pesanan] [class~=box] [class~=row] {
+    margin-bottom: auto;
+}
+
+[class~=info-top] [class~=box] [class~=row] button {
+    border-left-width: medium;
+}
+
+[class~=payout-detail] [class~=aktif] [class~=time],
+[class~=info-pesanan] [class~=box] [class~=row] {
+    margin-top: auto;
+}
+
+[class~=info-pesanan] [class~=box] [class~=row] [class~=descrip] [class~=row] p,
+[class~=ket-voucher] [class~=button-beli] {
+    margin-bottom: 15pt;
+}
+
+[class~=ket-voucher] [class~=button-beli],
+.menu-form a svg {
+    margin-right: auto;
+}
+
+[class~=info-top] [class~=box] [class~=row] button svg {
+    color: #070707;
+}
+
+[class~=payout-detail] [class~=row] [class~=img] {
+    width: 28%;
+}
+
+[class~=info-top] [class~=box] [class~=row] button {
+    border-bottom-width: medium;
+}
+
+[class~=ket-voucher] [class~=button-beli] {
+    margin-top: 15pt;
+}
+
+[class~=payout-detail] [class~=row] [class~=img] {
+    margin-right: auto;
+}
+
+[class~=payout-detail] [class~=row],
+[class~=payout-detail] [class~=title-total],
+.form-pesanan .form,
+[class~=conin] [class~=row] button [class~=title],
+[class~=payout-detail] [class~=aktif],
+[class~=payout-detail] [class~=detail-harga],
+[class~=form-pesanan] [class~=title],
+[class~=info-pesanan] [class~=box] {
+    width: 100%;
+}
+
+[class~=payout-detail] [class~=row] [class~=descrip] {
+    width: 68%;
+}
+
+[class~=form-pesanan] [class~=title] {
+    text-align: center;
+}
+
+[class~=conin] [class~=row] button {
+    border-right-color: currentColor;
+}
+
+[class~=payout-detail] [class~=row] [class~=descrip] {
+    margin-left: auto;
+}
+
+[class~=conin] [class~=row] button {
+    border-top-color: currentColor;
+}
+
+[class~=info-top] [class~=box] [class~=row] button {
+    border-right-width: medium;
+}
+
+.promo .item a img {
+    border-radius: 10px;
+}
+
+[class~=conin] [class~=row] button {
+    border-image: none;
+}
+
+.form-pesanan .form {
+    margin-top: 15pt;
+}
+
+.info-pesanan .box .row .btn:hover {
+    background: linear-gradient(to top, #0470bd, #1597d3);
+}
+
+[class~=form-pesanan],
+[class~=payout-detail] [class~=aktif] [class~=time] {
+    width: 90%;
+}
+
+[class~=conin] [class~=row] button {
+    background: none;
+}
+
+[class~=info-pesanan] [class~=box] [class~=row] [class~=btn]:focus {
+    outline: none;
+}
+
+[class~=info-pesanan] [class~=box] {
+    height: auto;
+}
+
+[class~=payout-detail] [class~=aktif],
+[class~=payout-detail] [class~=aktif] [class~=time] {
+    margin-left: auto;
+}
+
+[class~=info-pesanan] [class~=box] {
+    position: absolute;
+}
+
+[class~=info-pesanan] [class~=box] {
+    bottom: 0;
+}
+
+[class~=info-pesanan] [class~=box] {
+    border-radius: 20px .208333333in 0 0;
+}
+
+[class~=payout-detail] [class~=aktif] [class~=time],
+[class~=payout-detail] [class~=aktif],
+.payout-detail .detail-harga .title,
+[class~=ket-voucher] {
+    margin-right: auto;
+}
+
+[class~=info-top] [class~=box] [class~=row] button [class~=title] {
+    font-size: 16px;
+}
+
+[class~=payout-detail] [class~=aktif] [class~=time] {
+    color: #676767;
+}
+
+[class~=info-pesanan] [class~=box] {
+    background: #fff;
+}
+
+[class~=payout-detail] [class~=aktif] [class~=time] {
+    font-size: small;
+}
+
+.payout-detail .detail-harga .title {
+    width: 50%;
+}
+
+[class~=payout-detail] [class~=detail-harga] [class~=harga],
+.payout-detail .detail-harga .title {
+    color: #454545;
+}
+
+[class~=info-top] [class~=box] [class~=row] button {
+    border-top-width: medium;
+}
+
+[class~=payout-detail] [class~=title] {
+    color: #1a1c1b;
+}
+
+[class~=payout-detail] [class~=title-total],
+[class~=payout-detail] [class~=title] {
+    font-weight: bold;
+}
+
+[class~=info-top] [class~=box] [class~=row] button {
+    border-left-style: none;
+}
+
+[class~=info-top] [class~=box] [class~=row] button {
+    border-bottom-style: none;
+}
+
+[class~=payout-detail] [class~=row] {
+    margin-top: .104166667in;
+}
+
+[class~=info-top] [class~=box] [class~=row] button {
+    border-right-style: none;
+}
+
+[class~=info-top] [class~=box] [class~=row] button {
+    border-top-style: none;
+}
+
+.payout-detail .detail-harga .title {
+    margin-left: 0;
+}
+
+[class~=ket-voucher],
+[class~=payout-detail] [class~=aktif],
+.payout-detail .detail-harga .title,
+[class~=form-pesanan] {
+    margin-top: auto;
+}
+
+[class~=info-top] [class~=box] [class~=row],
+[class~=payout-detail] [class~=aktif],
+[class~=payout-detail] [class~=detail-harga],
+[class~=payout-detail] [class~=row] {
+    display: flex;
+}
+
+[class~=info-top] [class~=box] [class~=row] button {
+    border-left-color: currentColor;
+}
+
+[class~=info-top] [class~=box] [class~=row],
+[class~=payout-detail] [class~=button-beli],
+[class~=form-pesanan],
+[class~=payout-detail] [class~=aktif] {
+    margin-bottom: auto;
+}
+
+[class~=info-top] [class~=box] [class~=row] button {
+    border-bottom-color: currentColor;
+}
+
+[class~=info-top] [class~=box] [class~=row] button {
+    border-right-color: currentColor;
+}
+
+[class~=payout-detail] [class~=title-total] {
+    margin-top: 30pt;
+}
+
+[class~=info-top] [class~=box] [class~=row] {
+    width: 90%;
+}
+
+[class~=payout-detail] [class~=detail-harga] {
+    margin-top: 7.5pt;
+}
+
+[class~=payout-detail] [class~=detail-harga] {
+    padding-left: 0;
+}
+
+[class~=payout-detail] [class~=detail-harga] {
+    padding-bottom: 7.5pt;
+}
+
+[class~=info-top] [class~=box] [class~=row],
+[class~=payout-detail] [class~=button-beli],
+[class~=form-pesanan],
+[class~=conin] [class~=row] {
+    margin-left: auto;
+}
+
+[class~=payout-detail] [class~=detail-harga] {
+    padding-right: 0;
+}
+
+[class~=info-top] [class~=box] [class~=row] button [class~=title] {
+    text-align: start;
+}
+
+[class~=payout-detail] [class~=detail-harga] {
+    padding-top: 7.5pt;
+}
+
+[class~=payout-detail] [class~=detail-harga] {
+    border-top-width: .75pt;
+}
+
+[class~=payout-detail] [class~=detail-harga] {
+    border-top-style: solid;
+}
+
+[class~=payout-detail] [class~=button-beli],
+[class~=conin],
+[class~=coninf],
+[class~=conin] [class~=row],
+[class~=form-pesanan],
+[class~=coninf] [class~=row],
+[class~=info-top] [class~=box] [class~=row],
+[class~=payout-detail] {
+    margin-right: auto;
+}
+
+[class~=info-top] [class~=box] [class~=row] button {
+    border-top-color: currentColor;
+}
+
+[class~=info-top] [class~=box] [class~=row] button svg {
+    margin-left: 0;
+}
+
+[class~=payout-detail] [class~=detail-harga] {
+    border-top-color: #bebec0;
+}
+
+[class~=info-top] [class~=box] [class~=row] button,
+[class~=payout-detail] [class~=detail-harga] {
+    border-image: none;
+}
+
+[class~=conin] [class~=row],
+[class~=payout-detail] [class~=detail-harga] {
+    border-bottom-width: .010416667in;
+}
+
+[class~=payout-detail] [class~=detail-harga],
+[class~=conin] [class~=row] {
+    border-bottom-style: solid;
+}
+
+[class~=payout-detail] [class~=detail-harga] {
+    border-bottom-color: #bebec0;
+}
+
+[class~=payout-detail] [class~=button-beli] {
+    width: 80%;
+}
+
+.info-pesanan {
+    height: 100%;
+}
+
+.info-top .box,
+[class~=info-top] [class~=box] [class~=row] button {
+    background: #fff;
+}
+
+[class~=conin] [class~=row] button:focus {
+    outline: none;
+}
+
+[class~=info-top] [class~=box] [class~=row] {
+    height: .625in;
+}
+
+[class~=info-top],
+.info-pesanan {
+    position: fixed;
+}
+
+[class~=payout-detail] [class~=button-beli] {
+    margin-top: .416666667in;
+}
+
+.info-top .box {
+    width: 100%;
+}
+
+.info-top .box {
+    position: absolute;
+}
+
+[class~=conin] [class~=row] button [class~=title] {
+    color: #111;
+}
+
+[class~=conin] [class~=row],
+[class~=coninf] [class~=row],
+[class~=payout-detail] {
+    width: 90%;
+}
+
+.menu-form a svg,
+[class~=info-top] [class~=box] [class~=row],
+[class~=info-top] [class~=box] [class~=row] button svg,
+[class~=payout-detail] {
+    margin-top: auto;
+}
+
+[class~=conin] [class~=row],
+[class~=conin] [class~=row] button [class~=title] {
+    height: 40px;
+}
+
+[class~=info-pesanan] [class~=box] [class~=row] [class~=descrip] [class~=row] [class~=title],
+[class~=conin] [class~=row] {
+    margin-bottom: 0;
+}
+
+[class~=info-pesanan] [class~=box] [class~=row] [class~=descrip] [class~=row] [class~=title],
+[class~=conin] [class~=row] {
+    margin-top: 7.5pt;
+}
+
+.info-pesanan {
+    bottom: 0;
+}
+
+[class~=conin] [class~=row],
+[class~=info-top] [class~=box] [class~=row] #kembali {
+    border-bottom-color: #e9e9e9;
+}
+
+[class~=conin] [class~=row] {
+    border-image: none;
+}
+
+[class~=conin],
+[class~=coninf] [class~=row],
+[class~=payout-detail],
+[class~=coninf] {
+    margin-left: auto;
+}
+
+.info-pesanan {
+    background: rgba(0, 0, 0, .473);
+}
+
+[class~=info-top] [class~=box] [class~=row] button svg,
+[class~=coninf] [class~=row],
+[class~=conin],
+[class~=coninf],
+[class~=payout-detail] {
+    margin-bottom: auto;
+}
+
+[class~=conin] [class~=row] button [class~=title] {
+    font-weight: bold;
+}
+
+[class~=coninf] [class~=row],
+[class~=menu-form] a {
+    margin-top: auto;
+}
+
+[class~=info-pesanan] [class~=box] [class~=row] [class~=descrip] [class~=row] [class~=title],
+[class~=conin] [class~=row] button [class~=title] {
+    text-align: start;
+}
+
+[class~=info-top] [class~=box] [class~=row] button svg {
+    margin-right: 10px;
+}
+
+[class~=info-top] [class~=box] [class~=row] #kembali {
+    border-bottom-style: solid;
+}
+
+[class~=info-top] {
+    top: 0;
+}
+
+[class~=menu-form] a {
+    display: grid;
+}
+
+.promo .item a img {
+    transition-duration: 100ms;
+}
+
+[class~=coninf],
+[class~=conin],
+[class~=vecimg] img {
+    width: 100%;
+}
+
+[class~=info-top] [class~=box] [class~=row] #kembali {
+    border-image: none;
+}
+
+[class~=conin] {
+    margin-top: .625in;
+}
+
+[class~=info-pesanan] [class~=box] [class~=row] [class~=descrip] [class~=row] p,
+[class~=info-pesanan] [class~=box] [class~=row] [class~=descrip] [class~=row] [class~=title] {
+    margin-right: 0;
+}
+
+[class~=coninf] {
+    margin-top: 5pc;
+}
+
+[class~=info-pesanan] [class~=box] [class~=row] [class~=descrip] [class~=row] [class~=title] {
+    font-size: 18px;
+}
+
+[class~=info-pesanan] [class~=box] [class~=row] [class~=descrip] [class~=row] p {
+    margin-top: 0;
+}

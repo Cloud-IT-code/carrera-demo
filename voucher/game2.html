@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrera</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+</head>
+<body>
+    <div class="container"><div id="top-menu" class="top-menu">
+        <div class="box">
+            <div class="back">
+                <a href="../voucher.html">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-caret-left" viewBox="0 0 16 16">
+                        <path d="M10 12.796V3.204L4.519 8 10 12.796zm-.659.753l-5.48-4.796a1 1 0 0 1 0-1.506l5.48-4.796A1 1 0 0 1 11 3.204v9.592a1 1 0 0 1-1.659.753z"/>
+                    </svg>
+                </a>
+            </div>
+            <div class="title">Voucher</div>
+            <div class="back">
+                <button onclick="info();">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-question-circle" viewBox="0 0 16 16">
+                        <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+                        <path d="M5.255 5.786a.237.237 0 0 0 .241.247h.825c.138 0 .248-.113.266-.25.09-.656.54-1.134 1.342-1.134.686 0 1.314.343 1.314 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.003.217a.25.25 0 0 0 .25.246h.811a.25.25 0 0 0 .25-.25v-.105c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.267 0-2.655.59-2.75 2.286zm1.557 5.763c0 .533.425.927 1.01.927.609 0 1.028-.394 1.028-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94z"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div id="top-hr" class="top-hr">
+        <div class="hr">
+            <div class="lr"></div>
+        </div>
+    </div>
+
+    <div id="ketvou" class="payout-detail">
+        <div class="title">Rincian Pembelian</div>
+        <div class="row">
+            <div class="img">
+                <img src="../static/img/games2.jpg" alt="">
+            </div>
+            <div class="descrip">
+                <div class="title">Tranding Games 8 Ribu, PUBG MOBILE</div>
+                <div class="ket">Main games nyaman dengan Treding Games 8 Ribu 24 jam nonstop.</div>
+            </div>
+        </div>
+        <div class="aktif">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clock" viewBox="0 0 16 16">
+                <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z"/>
+                <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z"/>
+            </svg>
+            <div class="time">Aktif selama 7 hari</div>
+        </div>
+        <div class="title-total">Detail Pembayaran</div>
+        <div class="detail-harga">
+            <div class="title">Total</div>
+            <div class="harga">Rp8.000</div>
+        </div>
+        <div class="button-beli">
+            <button onclick="pesan();">Pesan</button>
+        </div>
+    </div>
+
+    <!--Form Pemesanan-->
+    <div id="form" class="form-pesanan none">
+        <div class="title">Harap isi dengan benar</div>
+        <form action="" class="form">
+            <div class="rw">
+                <div class="title">Nama Lengkap</div>
+                <input id="nama" type="text" required>
+            </div>
+            <div class="rw">
+                <div class="title">No. Telp / Whatsapp</div>
+                <input id="telp" type="text" value="62" placeholder="62xxxxxxxxxxx" required>
+            </div>
+            <div class="rw">
+                <div class="title">Alamat</div>
+                <input id="alamat" type="text" required>
+            </div>
+            <div class="rw">
+                <div class="title">Pilih Paket</div>
+                <!--Nama Paket atau Voucher-->
+                <input id="pesanan" type="text" value="Tranding Games 8 Ribu, PUBG MOBILE" disabled required>
+                <!--Harga Paket atau Voucher-->
+                <input id="harga" type="text" value="8000" hidden disabled required>
+            </div>
+            <div class="rw">
+                <div class="title">Kuantitas</div>
+                <button class="kuan" type="button" onclick="subtra();">-</button>
+                <input id="jumlah" class="kuant" type="text" value="1" disabled required style="width: 10%; text-align: center;">
+                <button class="kuan" type="button" onclick="addit();">+</button>
+            </div>
+            <div class="rw">
+                <div class="title">Total Harga</div>
+                <input id="total" type="text" disabled required>
+            </div>
+            <div class="rw">
+                <div class="title">Metode Pembayaran</div>
+                <input id="pembayaran" type="text" value="COD" disabled required>
+            </div>
+            <div class="button-beli">
+                <button type="submit">Beli</button>
+            </div>
+        </form>
+    </div>
+
+    <div id="sukses" class="carrera none">
+        <div class="row">
+            <img class="img" src="../static/img/successful_purchase.svg" alt="welcome">
+            <div class="title">Pesanan berhasil terkirim!</div>
+            <span>Pesanan anda akan dikirim ke alamat anda, harap lakukan pembayaran pada saat pesanan sudah sampai.</span>
+            <div class="button">
+                <button class="btn-cek" onclick="ok();">OK</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="info" class="info-pesanan none">
+        <div class="box">
+            <div class="row">
+                <div class="title">Cara pembelian!</div>
+                <div class="descrip">
+                    <div class="row">
+                        <div class="title">Pemesanan</div>
+                        <p>Harap untuk mengisikan semua informasi dengan sebenar-benarnya.</p>
+                    </div>
+                    <div class="row">
+                        <div class="title">Kontak</div>
+                        <p>Isi bidang Telp/Whatsapp dengan angkan 62 tidak memerlukan +, Contoh : 628581244xxxx.</p>
+                    </div>
+                    <div class="row">
+                        <div class="title">Kuantitas</div>
+                        <p>Banyaknya Item/Barang yang akan dibeli.</p>
+                    </div>
+                    <div class="row">
+                        <div class="title">Pengiriman dan Pembayaran</div>
+                        <p>Pesanan anda akan dikirim ke alamat yang telah anda tulis dan lakukan pembayaran ketika pesanan sudah sampai.</p>
+                    </div>
+                </div>
+                <button class="btn" onclick="infoyes();">MENGERTI!</button>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <!--Payment-->
+    <script src="../static/javascript/plugin-cloudpay.js"></script>
+</body>
+</html>
